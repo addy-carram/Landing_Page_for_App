@@ -86,6 +86,13 @@ button{
 
     }
 }
+div.button{
+    display: flex;
+    width: 376px;
+    justify-content: center;
+    align-items: center;
+    gap: 30px;
+}
 
 
 
