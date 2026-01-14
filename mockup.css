@@ -1,0 +1,47 @@
+
+.img-text{
+    max-width: 100%;
+    height: auto;
+    display: block;
+}
+
+
+.img_mobile {
+    width: 561px;
+    height: 593px;
+    object-fit: fit;
+    position : relative;
+}
+
+.car {
+    height: 155px;
+    align-self: stretch;
+}
+.kpi{
+    color: var(--paragraph);
+    text-align: center;
+    width: 160px;
+    /* KPI */
+    font-family: Urbanist;
+    font-size: 10px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: 135%; /* 13.5px */
+}
+ .div-mob{
+    max-height: auto;
+    align-items: center;
+    justify-content: center;
+}
+.text-mobile{
+    display: flex;
+    width: 258px;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    position: relative;
+    z-index: 1;
+    margin-top: -500px;
+    margin-left : 150px;
+  
+}
