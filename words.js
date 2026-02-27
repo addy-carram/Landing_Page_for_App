@@ -1,7 +1,25 @@
 const wordsData = [
     { label: "Friendly" },
+    { label: "Modern" },
     { label: "Trustworthy" },
-    { label: "Modern" }
+    { label: "User-Friendly" },
+    { label: "User-Friendly" },
+    { label: "Secure" },
+    { label: "Reliable" },
+    { label: "Contact" },
+    { label: "Fast" },
+    { label: "Trustworthy" },
+    { label: "Contactles" },
+    { label: "Convinient" },
+    { label: "Eficient" },
+    { label: "Smart" },
+    { label: "Secure" },
+    { label: "Smart" },
+    { label: "Realible" },
+    { label: "Modern" },
+    { label: "User-Friendly" },
+    { label: "Trustworthy" },
+    { label: "Convinient" }
 
 ];
 
