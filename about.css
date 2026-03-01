@@ -1,7 +1,9 @@
 .about-section{
-    max-width: 100%;
+    max-width: 1440px;
     display: flex;
     height: auto;
+    mask-clip: true;
+    
      
 }
 .about-text{
