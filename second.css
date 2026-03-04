@@ -7,6 +7,9 @@
 }
 body{
     background: #01041F;
+    display: flex;
+    flex-direction: column;
+    gap: 150px;
 
 }
 h5.nav-bar{

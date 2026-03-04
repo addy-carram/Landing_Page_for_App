@@ -18,8 +18,7 @@ const wordsData = [
     { label: "Realible" },
     { label: "Modern" },
     { label: "User-Friendly" },
-    { label: "Trustworthy" },
-    { label: "Convinient" }
+    { label: "Trustworthy" }
 
 ];
 
@@ -44,8 +43,7 @@ function createStatWords() {
     
     // Add the content (just the label)
     wordElement.innerHTML = `
-      <h3 class="word-label">${word.label}</p>
-    `;
+  <span class="word-label">${word.label}</span>`;
     
     // Add the word element to the container
     container.appendChild(wordElement);
