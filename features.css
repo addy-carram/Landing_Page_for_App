@@ -1,0 +1,16 @@
+.content{
+    display: flex;
+    flex-direction: row;
+}
+h2.exeption{
+color: var(--primary, #FFF);
+text-align: center;
+/* text efect */
+text-shadow: 12px 0 6px #061AD2;
+/* h2 exeption */
+font-family: Urbanist;
+font-size: 130px;
+font-style: normal;
+font-weight: 700;
+line-height: 115%; /* 149.5px */
+}

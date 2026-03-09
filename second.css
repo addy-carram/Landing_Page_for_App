@@ -49,6 +49,7 @@ nav{
 header{
     width: 1440px;
     align-items: center;
+    align-content: center;
 }
 .logo{
     width: 106px;
